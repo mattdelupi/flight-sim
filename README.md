@@ -74,12 +74,6 @@ See the scripts in the following folders:
 
 ![ex3doflinstickfreedeltae](./docs/ex3doflinstickfreedeltae.png)
 
-## Stability and linearized dynamics
-
-### Longitudinal dynamics
-
-### Lateral-directional dynamics
-
 ## Simulate take-off
 
 See the MATLAB scripts and the Simulink models inside the folder TakeOff_ATR42.
