@@ -89,4 +89,4 @@ See the MATLAB scripts and the Simulink models inside the folder TakeOff_ATR42.
 The main plant:
 ![Main](./docs/Main.png)
 
-For subsystems see the folder.
+For subsystems see the folder or the pdf report.
