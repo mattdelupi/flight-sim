@@ -2,6 +2,8 @@
 
 This is a collection of MATLAB scripts that allows to simulate aircraft motions, evaluate trim conditions, simulate take-off, and visualize maneuvers.
 
+For more detailed information see the technical Report.pdf file.
+
 ## Kinematics
 
 Tools to visualize aircraft orientation or maneuver using both formulations: Euler angles or Quaternions.
