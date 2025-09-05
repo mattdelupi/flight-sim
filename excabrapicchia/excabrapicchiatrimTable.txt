@@ -1,0 +1,7 @@
+Trimmed leveled symmetrical flight, 
+h = 9000 m,V = 240 m/s
+Absolute AoA (deg),3.94
+Throttle,0.787
+Elevator deflection (deg),-4.64
+Stabilator deflection (deg),-1
+Cost value,1.87e-10
