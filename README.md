@@ -48,14 +48,14 @@ See the scripts in the following folders:
 - excabrapicchia
 - exf18harvthrust
 
-![exf18harvthrusttrajectory](exf18harvthrusttrajectory.png)
+![exf18harvthrusttrajectory](./docs/exf18harvthrusttrajectory.png)
 
 ### Simulate 3-DoF motion
 
 See the scripts in the following folders:
 - ex3dofsim
 
-![ex3doftrajectory](ex3doftrajectory.png)
+![ex3doftrajectory](./docs/ex3doftrajectory.png)
 
 ### Find trim (equilibrium) conditions
 
@@ -63,14 +63,14 @@ See the scripts in the following folders:
 - f18harv_Trim3DOF
 - ex3dofTrimLin
 
-![ex3dofTdeltase](ex3dofTdeltase.png)
+![ex3dofTdeltase](./docs/ex3dofTdeltase.png)
 
 ### Simulate control surfaces
 
 See the scripts in the following folders:
 - ex3doflinstickfree
 
-![ex3doflinstickfreedeltae](ex3doflinstickfreedeltae.png)
+![ex3doflinstickfreedeltae](./docs/ex3doflinstickfreedeltae.png)
 
 ## Stability and linearized dynamics
 
