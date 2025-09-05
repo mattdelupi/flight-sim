@@ -1,0 +1,16 @@
+function [ThrustRatio] = f_ThrustRatio_TP_TO(AircraftData, Mach, Altitude_ft)
+
+% Break-points:
+% Mach: linspace(0,0.6,52);
+% Altitude_ft: [0 5000 10000 15000];
+
+[m_MACH, m_Altitude_ft] = meshgrid( ...
+    AircraftData.Propulsion.Interp.v_Mach_Thrust_TO_bp, ...
+    AircraftData.Propulsion.Interp.v_h_ft_Thrust_TO_bp);
+
+ThrustRatio = interp2( ...
+    m_MACH, m_Altitude_ft, ...
+        AircraftData.Propulsion.Interp.Thrust_Ratio_Interp_TO, ...
+    Mach, Altitude_ft);
+
+end

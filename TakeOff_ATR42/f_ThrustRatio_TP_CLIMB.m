@@ -1,0 +1,16 @@
+function [ThrustRatio] = f_ThrustRatio_TP_CLIMB(AircraftData, Mach, Altitude_ft)
+
+%load 'Data_TP_CL'
+%Mach_Vector = linspace(0,0.6,52);
+%Altitude_Vector = [0 5000 10000 15000 20000 25000 30000];
+
+[m_Mach, m_Altitude_ft] = meshgrid( ...
+    AircraftData.Propulsion.Interp.v_Mach_Thrust_CLIMB_bp, ...
+    AircraftData.Propulsion.Interp.v_h_ft_Thrust_CLIMB_bp);
+
+ThrustRatio = interp2( ...
+    m_Mach, m_Altitude_ft, ...
+        AircraftData.Propulsion.Interp.Thrust_Ratio_Interp_CLIMB, ...
+    Mach, Altitude_ft);
+
+end
