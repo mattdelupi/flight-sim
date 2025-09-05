@@ -38,13 +38,39 @@ See the scripts in the following folders:
 
 ## Dynamics
 
+Tools to simulate aircraft motion and evaluate trim conditions.
+
 ### Simulate 6-DoF motion
+
+See the scripts in the following folders:
+- ex7.2
+- ex7.3
+- excabrapicchia
+- exf18harvthrust
+
+![exf18harvthrusttrajectory](exf18harvthrusttrajectory.png)
 
 ### Simulate 3-DoF motion
 
+See the scripts in the following folders:
+- ex3dofsim
+
+![ex3doftrajectory](ex3doftrajectory.png)
+
 ### Find trim (equilibrium) conditions
 
+See the scripts in the following folders:
+- f18harv_Trim3DOF
+- ex3dofTrimLin
+
+![ex3dofTdeltase](ex3dofTdeltase.png)
+
 ### Simulate control surfaces
+
+See the scripts in the following folders:
+- ex3doflinstickfree
+
+![ex3doflinstickfreedeltae](ex3doflinstickfreedeltae.png)
 
 ## Stability and linearized dynamics
 
