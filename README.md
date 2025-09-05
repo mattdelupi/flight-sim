@@ -21,6 +21,21 @@ See the scripts in the following folders:
 
 ### Visualize aircraft orientation/motion using Quaternions
 
+See the scripts in the following folders:
+- Ex3.1_Cinematica_looping
+- Ex3.2_Traiettoria_looping
+- Ex3.3_KinTraj_tonneau
+- Ex3.4_KinTraj_lazy8
+
+![ex31main](./docs/ex31main.png)
+![ex32main](./docs/ex32main.png)
+![ex33main1](./docs/ex33main1.png)
+![ex33main2](./docs/ex33main2.png)
+![ex33main3](./docs/ex33main3.png)
+![ex34main1](./docs/ex34main1.png)
+![ex34main2](./docs/ex34main2.png)
+![ex34main3](./docs/ex34main3.png)
+
 ## Dynamics
 
 ### Simulate 6-DoF motion
