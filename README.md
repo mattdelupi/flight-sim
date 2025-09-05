@@ -14,6 +14,8 @@ See the scripts in the following folders:
 - Ex2.4_Orientamenti_successivi_velivolo
 - Ex2.5_Integrazione_eqs_cinematiche
 
+![img](./docs/ex2_1.pdf)
+
 ### Visualize aircraft orientation/motion using Quaternions
 
 ## Dynamics
