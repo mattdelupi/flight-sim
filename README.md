@@ -82,4 +82,8 @@ See the scripts in the following folders:
 
 ## Simulate take-off
 
+See the MATLAB scripts and the Simulink models inside the folder TakeOff_ATR42.
+
 ### Simulink model
+
+![Main](./docs/Main.png)
